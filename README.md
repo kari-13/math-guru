@@ -6,3 +6,5 @@ this is still too underdevloped any new ideas are welcomed
 this program uses python , and it's json module 
 
 please make sure that the python and json file is in same folder for correct execution
+
+if you know to code in json , try to add new theorems 
