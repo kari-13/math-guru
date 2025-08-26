@@ -1,5 +1,7 @@
 import json 
-with open('math.json','r') as file:
+import os
+json_path=os.path.join(os.path.dirname(__file__),'math.json')
+with open('json_path','r') as file:
     datab = json.load(file)
 
 while True:
