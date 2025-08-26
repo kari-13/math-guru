@@ -2,8 +2,8 @@ import json
 with open('math.json','r') as file:
     datab = json.load(file)
 
-while true:
-    a=input("enter a math theorem to find it's explantion :")
+while True:
+    a=input("enter a math theorem to find it's explanation :")
 
     if a in datab:
         print(datab[a])
