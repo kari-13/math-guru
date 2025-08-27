@@ -1,6 +1,6 @@
 {
     "addition":"Addition is like combining two numbers to get the total,the total is also known as the sum /n simple one digit numbers can be added by keeping one number in mind and other number in you hand ",
     "subtraction":" subtraction is the exact opposite of addition in addition we add/combine two numbers but in subtraction we take way or reduce the numbers \n i.e if we have something in quantity of 7 and we tke 5 from it it will be 2  that is 7-5= 2,  ",
-    "pythagoraon theorem ":"In a right-angles triangle , this opposite side of the right angle is called hypotenuse and the formula to calculate hypotenuse is a square + b square = c square . here a and b are the two sides other than the hpotenuse ,  ",
-    
+    "pythagorean theorem ":"In a right-angles triangle , (for now we will take b as right-angle) \n the opposite side of the right angle is called hypotenuse and the formula to calculate hypotenuse is a square + b square = c square . here a and b are the two sides other than the hypotenuse, to find other sides it is just reverse of finding the hypotenuse \n i.e a squared - c squared = b squared ",
+    "multiplication"::
 }
