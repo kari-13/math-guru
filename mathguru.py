@@ -7,7 +7,7 @@ with open(json_path, 'r') as file:
 
 flat_data = flatten_json(datab)
 while True:
-    a = input("enter a math theorem to find its explanation (use spaces for nested): ").strip()
+    a = input("enter a math theorem to find its explanation (use spaces for sub-theory ): ").strip()
     if a.lower() == 'exit':
         print("thank you for using my app :) \n  @kari_13")
         break
