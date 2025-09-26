@@ -1,13 +1,13 @@
 import json
 from typo import flatten_json, match_full, match_level_by_level
 
-json_path = 'Math.json'
+json_path = 'Math.th'
 with open(json_path, 'r') as file:
     datab = json.load(file)
 
 flat_data = flatten_json(datab)
 while True:
-    a = input("enter a math theorem to find its explanation (use spaces for sub-theory ): ").strip()
+    a = input("\nenter a math theorem to find its explanation (use spaces for sub-theory ): ").strip()
     if a.lower() == 'exit':
         print("thank you for using my app :) \n  @kari_13")
         break
